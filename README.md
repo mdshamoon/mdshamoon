@@ -16,6 +16,10 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://badges.aleen42.com/src/javascript.svg)
+![](https://badges.aleen42.com/src/typescript.svg)
+![](https://badges.aleen42.com/src/react.svg)
+![](https://badges.aleen42.com/src/jest_1.svg)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 
 
