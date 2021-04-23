@@ -35,6 +35,11 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 - [Using discourse as a discussion platform](https://coloredcow.com/using-discourse-as-a-discussion-platform/)
 
+### 🧪 Learnings and experiments
+
+- [FreecodeCamp](https://www.freecodecamp.org/mdshamoon)
+- [CodePen](https://codepen.io/mdshamoon)
+
 
 ## &#x1f4c8; GitHub Stats
 
