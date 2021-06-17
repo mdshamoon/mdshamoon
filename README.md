@@ -25,6 +25,12 @@ I love to solve problems through my intellect and tech. I am a software develope
 - [FreecodeCamp](https://www.freecodecamp.org/mdshamoon)
 - [CodePen](https://codepen.io/mdshamoon)
 
+### :blue_book: Open Source projects
+
+- [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp
+- [React D3 Graphs](https://github.com/mdshamoon/react-d3-graphs)- D3 Graph components for React 
+- [Auto Close Tab](https://github.com/mdshamoon/auto-close-tab)- Closes an untouched chrome tab after a specified time
+
 
 ## &#x1f4c8; GitHub Stats
 
