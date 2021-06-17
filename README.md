@@ -14,26 +14,11 @@ I love to solve problems through my intellect and tech. I am a software develope
   <a href="mailto:mohd.shamoon@coloredcow.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://badges.aleen42.com/src/javascript.svg)
-![](https://badges.aleen42.com/src/typescript.svg)
-![](https://badges.aleen42.com/src/react.svg)
-![](https://badges.aleen42.com/src/jest_1.svg)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-
-
-
-
-
-
-
-
-
 
 ### :newspaper: Blog Posts
 
 - [Using discourse as a discussion platform](https://coloredcow.com/using-discourse-as-a-discussion-platform/)
+- [Saving time with patterns and automation](https://coloredcow.com/saving-time-with-patterns-and-automation/)
 
 ### 🧪 Learnings and experiments
 
@@ -49,6 +34,19 @@ I love to solve problems through my intellect and tech. I am a software develope
 <a href="https://github.com/mdshamoon/mdshamoon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshamoon&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Shamoon's GitHub Stats" />
 </a>
+
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://badges.aleen42.com/src/javascript.svg)
+![](https://badges.aleen42.com/src/typescript.svg)
+![](https://badges.aleen42.com/src/react.svg)
+![](https://badges.aleen42.com/src/jest_1.svg)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+
+
+
+
 
 
 
