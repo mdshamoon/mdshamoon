@@ -31,6 +31,13 @@ I love to solve problems through my intellect and tech. I am a software develope
 - [React D3 Graphs](https://github.com/mdshamoon/react-d3-graphs)- D3 Graph components for React 
 - [Auto Close Tab](https://github.com/mdshamoon/auto-close-tab)- Closes an untouched chrome tab after a specified time
 
+### 🗣️ Webinars
+
+- [Glific frontend artchitecture in React](https://www.youtube.com/watch?v=rm8I1Yn4Ehk)
+- [GraphQL and Apollo client](https://www.youtube.com/watch?v=QbBRvNaYL-I)
+- [Unit testing with Jest and RTL](https://www.youtube.com/watch?v=l0GBD6j4ZOQ)
+- [Writing better React code with automations](https://www.youtube.com/watch?v=-EU3wj8gRfo)
+- [Integration testing with Cypress](https://www.youtube.com/watch?v=RQPEipPaU0k)
 
 ## &#x1f4c8; GitHub Stats
 
