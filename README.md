@@ -33,7 +33,7 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 ### 🗣️ Webinars
 
-- [Glific frontend artchitecture in React](https://www.youtube.com/watch?v=rm8I1Yn4Ehk)
+- [Glific frontend architecture in React](https://www.youtube.com/watch?v=rm8I1Yn4Ehk)
 - [GraphQL and Apollo client](https://www.youtube.com/watch?v=QbBRvNaYL-I)
 - [Unit testing with Jest and RTL](https://www.youtube.com/watch?v=l0GBD6j4ZOQ)
 - [Writing better React code with automations](https://www.youtube.com/watch?v=-EU3wj8gRfo)
