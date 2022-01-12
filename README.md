@@ -25,6 +25,7 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 - [FreecodeCamp](https://www.freecodecamp.org/mdshamoon)
 - [CodePen](https://codepen.io/mdshamoon)
+- [Exercism](https://exercism.org/profiles/mdshamoon)
 
 ### :blue_book: Open Source projects
 
