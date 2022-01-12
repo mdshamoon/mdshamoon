@@ -20,6 +20,7 @@ I love to solve problems through my intellect and tech. I am a software develope
 - [Using discourse as a discussion platform](https://coloredcow.com/using-discourse-as-a-discussion-platform/)
 - [Saving time with patterns and automation](https://coloredcow.com/saving-time-with-patterns-and-automation/)
 
+
 ### 🧪 Learnings and experiments
 
 - [FreecodeCamp](https://www.freecodecamp.org/mdshamoon)
@@ -39,13 +40,17 @@ I love to solve problems through my intellect and tech. I am a software develope
 - [Writing better React code with automations](https://www.youtube.com/watch?v=-EU3wj8gRfo)
 - [Integration testing with Cypress](https://www.youtube.com/watch?v=RQPEipPaU0k)
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Tech_e_moon)](https://github.com/githubusername/github-readme-twitter)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mdshamoon/mdshamoon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamoon&hide=java,CSS,html&theme=vue&langs_count=8&layout=compact" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamoon&hide=java,CSS,html&theme=vue&langs_count=8&layout=compact" />
 </a>
+
+
 <a href="https://github.com/mdshamoon/mdshamoon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshamoon&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Shamoon's GitHub Stats" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=mdshamoon&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Shamoon's GitHub Stats" />
 </a>
 
 ### 🏆 GitHub Trophies
@@ -60,7 +65,6 @@ I love to solve problems through my intellect and tech. I am a software develope
 ![](https://badges.aleen42.com/src/react.svg)
 ![](https://badges.aleen42.com/src/jest_1.svg)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-
 
 
 
