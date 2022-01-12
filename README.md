@@ -40,7 +40,7 @@ I love to solve problems through my intellect and tech. I am a software develope
 - [Writing better React code with automations](https://www.youtube.com/watch?v=-EU3wj8gRfo)
 - [Integration testing with Cypress](https://www.youtube.com/watch?v=RQPEipPaU0k)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Tech_e_moon)](https://github.com/githubusername/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Tech_e_moon)](https://twitter.com/Tech_e_moon)
 
 ## &#x1f4c8; GitHub Stats
 
