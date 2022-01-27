@@ -17,6 +17,7 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 ### :newspaper: Blog Posts
 
+- [Enhance review process with automated tools and services in an open source application](https://coloredcow.com/journey-of-improving-review-process-with-automated-tools-and-services/)
 - [Using discourse as a discussion platform](https://coloredcow.com/using-discourse-as-a-discussion-platform/)
 - [Saving time with patterns and automation](https://coloredcow.com/saving-time-with-patterns-and-automation/)
 
