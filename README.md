@@ -19,21 +19,20 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 - [Enhance review process with automated tools and services in an open source application](https://coloredcow.com/journey-of-improving-review-process-with-automated-tools-and-services/)
 - [Creating customised visualizations in Data Studio with Chart.js](https://coloredcow.com/creating-customised-visualizations-in-data-studio-with-chart-js/)
+- [Open source, automation and sharing with discord bots](https://coloredcow.com/open-source-automation-and-sharing-with-discord-bots/)
+- [Coding is just 20 percent](https://coloredcow.com/coding-is-just-20-percent/)
 - [Using discourse as a discussion platform](https://coloredcow.com/using-discourse-as-a-discussion-platform/)
 - [Saving time with patterns and automation](https://coloredcow.com/saving-time-with-patterns-and-automation/)
+- [My first 10k run](https://coloredcow.com/with-a-goal-in-mind-and-proper-planning-anything-is-possible%ef%bf%bc/)
 
-
-### 🧪 Learnings and experiments
-
-- [FreecodeCamp](https://www.freecodecamp.org/mdshamoon)
-- [CodePen](https://codepen.io/mdshamoon)
-- [Exercism](https://exercism.org/profiles/mdshamoon)
 
 ### :blue_book: Open Source projects
 
 - [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp
 - [React D3 Graphs](https://github.com/mdshamoon/react-d3-graphs)- D3 Graph components for React 
 - [Auto Close Tab](https://github.com/mdshamoon/auto-close-tab)- Closes an untouched chrome tab after a specified time
+- [Bigquery discord bot](https://github.com/mdshamoon/bigquery-discord-bot)- A discord bot that fetches data from bigquery and send the stats to the discord server at a fixed time.
+- [Github discord bot](https://github.com/mdshamoon/github-issues-bot)- A bot that can open a github issue from a discord server.
 
 ### 🗣️ Webinars
 
@@ -42,6 +41,13 @@ I love to solve problems through my intellect and tech. I am a software develope
 - [Unit testing with Jest and RTL](https://www.youtube.com/watch?v=l0GBD6j4ZOQ)
 - [Writing better React code with automations](https://www.youtube.com/watch?v=-EU3wj8gRfo)
 - [Integration testing with Cypress](https://www.youtube.com/watch?v=RQPEipPaU0k)
+
+### 🧪 Learnings and experiments
+
+- [FreecodeCamp](https://www.freecodecamp.org/mdshamoon)
+- [CodePen](https://codepen.io/mdshamoon)
+- [Exercism](https://exercism.org/profiles/mdshamoon)
+
 
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Tech_e_moon&layout=wide)](https://twitter.com/Tech_e_moon)
