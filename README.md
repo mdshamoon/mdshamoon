@@ -23,6 +23,7 @@ I love to solve problems through my intellect and tech. I am a software develope
 - [Coding is just 20 percent](https://coloredcow.com/coding-is-just-20-percent/)
 - [Using discourse as a discussion platform](https://coloredcow.com/using-discourse-as-a-discussion-platform/)
 - [Saving time with patterns and automation](https://coloredcow.com/saving-time-with-patterns-and-automation/)
+- [My IndiaFOSS conference experience](https://coloredcow.com/my-indiafoss-2-0-experience/)
 - [My first 10k run](https://coloredcow.com/with-a-goal-in-mind-and-proper-planning-anything-is-possible%ef%bf%bc/)
 
 
