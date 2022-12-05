@@ -15,7 +15,7 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 ### 🗣️ Talks
 
-- [DelhiFOSS](https://www.youtube.com/watch?v=ptN6FlkHSsY))
+- [DelhiFOSS](https://www.youtube.com/watch?v=ptN6FlkHSsY)
 
 ### :newspaper: Blog Posts
 
