@@ -13,7 +13,9 @@ I love to solve problems through my intellect and tech. I am a software develope
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mohd_shamoon)
   <a href="mailto:mohd.shamoon@coloredcow.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
+### 🗣️ Talks
 
+- [DelhiFOSS]([url](https://www.youtube.com/watch?v=ptN6FlkHSsY))
 
 ### :newspaper: Blog Posts
 
