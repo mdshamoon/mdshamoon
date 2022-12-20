@@ -57,10 +57,6 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/mdshamoon/mdshamoon">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamoon&hide=java,CSS,html&theme=vue&langs_count=8&layout=compact" />
-</a>
-
 
 <a href="https://github.com/mdshamoon/mdshamoon">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=mdshamoon&show_icons=true&hide=stars&line_height=27&count_private=true&theme=vue" alt="Shamoon's GitHub Stats" />
