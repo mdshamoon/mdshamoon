@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mdshamoon.mdshamoon)
 
-I love to solve problems through my intellect and tech. I am a software developer at <a href="[https://coloredcow.com?utm_source=github&utm_medium=mdshamoon](https://projecttech4dev.org/)">Tech4dev</a>.
+I love to solve problems through my intellect and tech. I am a software developer at <a href="https://projecttech4dev.org">Tech4dev</a>.
 
 
   #### 📫 How to reach me:   
