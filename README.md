@@ -15,6 +15,7 @@ I love to solve problems through my intellect and tech. I am a software develope
 
 ### 🗣️ Talks
 
+- [Elixir conference](https://www.youtube.com/watch?v=oBjOsnMnkNI)
 - [DelhiFOSS](https://www.youtube.com/watch?v=ptN6FlkHSsY)
 
 ### :newspaper: Blog Posts
